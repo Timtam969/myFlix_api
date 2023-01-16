@@ -19,8 +19,3 @@ Creating a backend API to store information about movies and allow users to crea
 - lodash
 - Executing program
 
-### Documentation
-For a list of endpoints and responses check out the documentation.html
-
-### Authors
-Melissa White
